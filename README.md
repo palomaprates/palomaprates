@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Paloma Prates
 
-- I'm learning C at 42 Lisboa and React on my own.
-
-🚀 Facing programming challenges and improving a little more every day!
+- I am a software development student, creating my own projects to gain practical experience and learn continuously.
+  
+- I have a background in C and am currently focused on React.
 
 ---
 
