@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paloma Prates
+# Paloma Prates
 
 ### Junior Full-Stack Developer | Software Development Student
 
@@ -35,7 +35,7 @@ I enjoy learning by building, understanding how things work under the hood, and 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **ImagesBoost** — An AI-powered image enhancement application built with React, TypeScript, Supabase and AI APIs.
 - **TalkToDocAI** — An AI-powered document question-answering application using React, TypeScript, Supabase, PostgreSQL and vector search.
@@ -43,7 +43,7 @@ I enjoy learning by building, understanding how things work under the hood, and 
 
 ---
 
-### 🌱 My Approach
+### My Approach
 
 I believe in learning by doing, writing code to solve real problems, and understanding the reasoning behind technical decisions.
 
